@@ -6,11 +6,6 @@
 
 Un chatbot intelligent pour l'Université Mohammed V utilisant une architecture hybride combinant classification d'intention (XLM-RoBERTa), RAG (Retrieval-Augmented Generation) et LLM fallback.
 
-## 🌟 Démonstration
-
-**🔗 [Démo en ligne](https://VOTRE_LIEN_ICI)** ← Cliquez pour essayer !
-
-![Demo Screenshot](assets/demo_screenshot.png)
 
 ## ✨ Caractéristiques
 
@@ -247,7 +242,7 @@ Le modèle a été entraîné sur Kaggle avec :
 - **Durée** : ~45 minutes
 - **Framework** : PyTorch + Transformers
 
-Voir le notebook d'entraînement : [Kaggle Notebook](VOTRE_LIEN)
+
 
 ## 🌐 Déploiement en Production
 
@@ -284,20 +279,6 @@ Les contributions sont les bienvenues !
 
 Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 
-## 👥 Auteurs
-
-**[Votre Nom]** - *Développeur Principal*
-- 📧 Email : votre.email@um5.ac.ma
-- 💼 LinkedIn : [Votre LinkedIn](https://linkedin.com/in/votre-profil)
-- 🐙 GitHub : [@votre-username](https://github.com/votre-username)
-
-## 🙏 Remerciements
-
-- Université Mohammed V pour le support
-- Hugging Face pour l'hébergement gratuit des modèles
-- Anthropic pour Claude API
-- OpenAI pour GPT-4 API
-- La communauté open-source
 
 ## 📚 Références
 
@@ -311,7 +292,6 @@ Ce projet est sous licence MIT. Voir [LICENSE](LICENSE) pour plus de détails.
 Pour toute question ou problème :
 
 - 🐛 [Ouvrir une issue](https://github.com/VOTRE_USERNAME/um5-chatbot/issues)
-- 📧 Email : votre.email@um5.ac.ma
 - 💬 [Discussions](https://github.com/VOTRE_USERNAME/um5-chatbot/discussions)
 
 ---
